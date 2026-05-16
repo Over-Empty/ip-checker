@@ -1,3 +1,5 @@
+[نسخه فارسی توضیحات](README_Fa.md) 
+
 🔍 IP Ping Checker Pro
 
 A fast, multi-threaded IP checker tool that extracts IP addresses from input text, pings them concurrently, and shows which IPs are online or offline. It also supports clipboard copying for active IPs.
